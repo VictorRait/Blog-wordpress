@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments for Blog site	</title>
-	<atom:link href="http://localhost/comments/feed/?simply_static_page=12005" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/comments/feed/?simply_static_page=28222" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Mon, 04 Sep 2023 01:50:57 +0000</lastBuildDate>
